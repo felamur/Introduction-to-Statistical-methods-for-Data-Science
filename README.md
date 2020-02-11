@@ -5,6 +5,7 @@ GRADE: 73%
 ReportStatistical.docx is the report which includes the full code.
 
 Report info:
+
 In this project, aim is to model the given dataset. Given dataset is made from two synthetic electroencephalogram (EEG) time-series data. Both of these EEG channels are measured from two different parts of the brain. Purpose is to model and find out the degree of potential nonlinear synergy between the EEG channels.
 
 First signal is referred as X and second signal is Y. To make it easier for our modelling processes we say X is input and Y is output. Since Y is output, that makes it dependent and makes X independent. This implies channel Y can be found by channel X. Both X and Y consists of 250 rows of data. Additionally, signal Y already contains additive noise of an unknown amount.
